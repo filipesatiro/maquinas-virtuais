@@ -1,0 +1,41 @@
+ Segue o Relatorio  Das Maquinas Virtuais Criadas  na aula do dia 27/05/2022
+ubuntu  filipe-satiro
+kubuntu filipe satiro
+xubunto filipe satiro
+lubunto filipe satiro
+
+
+#configurações daa máquinas virtuais
+
+todas em 64 bits
+4068  GB de ram 
+Disco rigido Virtual -dinamicamente alocado 
+O tamanho do  arquivo foi de 18Gb do Hd e SSD ambos foram uzados !
+ usei a imagem iso  salva na pasta linux/mint da escola do senac 
+ 
+ Configuraçoes da virtual Machine
+ Básico
+ avançado  bi/direcional foi marcado 
+ descrição  e criptografia de disco foi deixada padrão desmarcado!
+ 
+ Sistema 
+ placa-mae padrão
+ processador 2  theads
+ aceleração padrão
+ 
+ monitor
+ 128 MB
+ habilitei a função 3D
+ 
+ Rede 
+ placa em modo bridge  marcada como opção!
+ 
+ máquinas criadas com Sucesso !
+ obs: foram usadas 4 imagem iso uma para cada maquina 
+ ububntu 
+ kubuntu 22.04
+ lubuntu
+ xubuntu
+ 
+ 
+
